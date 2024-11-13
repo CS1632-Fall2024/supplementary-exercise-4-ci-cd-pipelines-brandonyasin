@@ -75,6 +75,12 @@
       <scope>system</scope>
     </dependency>
 
+    <dependency>
+      <groupId>io.github.wonsunahn</groupId>
+      <artifactId>cs1632-cicd-pipelines-bty5</artifactId>
+      <version>1.0</version>
+    </dependency>
+
   </dependencies>
 
   <build>
